@@ -2,8 +2,12 @@
 
 A Web-Based GIS Map Viewer for the Department of Agrarian Reform's Community Clusters Development Plans.
 
-![ARCC Geo-Portal Preview](https://via.placeholder.com/800x400.png?text=ARCC+Geo-Portal+Preview) 
+![ARCC Geo-Portal Preview]
+<img width="1846" height="919" alt="image" src="https://github.com/user-attachments/assets/59ec6526-f2fc-4910-a872-4794566c58bd" />
+<img width="1845" height="917" alt="image" src="https://github.com/user-attachments/assets/a95beef5-761a-4260-9212-c9b45ac8fe72" />
+<img width="1844" height="919" alt="image" src="https://github.com/user-attachments/assets/b4da9b7b-d4ba-491e-bd1d-191bb174b714" />
 <img width="1067" height="578" alt="image" src="https://github.com/user-attachments/assets/e4ffe570-3cfe-4872-8cd0-00e0be3e2a6d" />
+<img width="1076" height="616" alt="image" src="https://github.com/user-attachments/assets/2fcc9294-09aa-43a0-bead-31958a698632" />
 
 
 ## 📖 About The Project
